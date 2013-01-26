@@ -1,0 +1,13 @@
+{
+  "name": "Hello World",
+  "description": "Says Hello world",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/images/hello.png"
+  },
+  "developer": {
+    "name": "Krishna Kumar Deep",
+    "url": "https://www.facebook.com/kkd33p"
+  },
+  "default_locale": "en"
+}
