@@ -4,8 +4,7 @@
   "launch_path": "/index.html",
   "icons": {
     "128": "/images/hello.png"
-  
-  },
+	},
   "developer": {
     "name": "Ashish Namdev",
     "url": "https://www.facebook.com/Ashish.MSR"
